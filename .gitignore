@@ -14,7 +14,7 @@ venv/
 env/
 ENV/
 *.pdf
-*.png
+
 *.jpg
 *.jpeg
 chroma_db/
