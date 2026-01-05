@@ -46,7 +46,10 @@ Example queries successfully handled:
 ![raganswer](images/rag_answer.png)
 ![formulaextraction](images/formula_extraction.png)
 
-**Demonstration of grounded reasoning on a 52-page ![CDC epidemiological report](https://www.cdc.gov/acip/downloads/slides-2025-09-18-19/04-Srinivasan-covid-508.pdf). The system correctly retrieves and applies the Test-Negative Design formula for vaccine effectiveness from a diagram-based methodology section, with full source attribution**
+**Demonstration of grounded reasoning on a 52-page CDC epidemiological report. The system correctly retrieves and applies the Test-Negative Design formula for vaccine effectiveness from a diagram-based methodology section, with full source attribution**
+
+### Evaluating document
+https://www.cdc.gov/acip/downloads/slides-2025-09-18-19/04-Srinivasan-covid-508.pdf
 
 ## Installation
 
