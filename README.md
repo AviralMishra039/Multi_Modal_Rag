@@ -123,5 +123,5 @@ streamlit run app.py
 
 ## License
 
-MIT
+![MIT](https://github.com/AviralMishra039/Multi_Modal_Rag/blob/main/LICENSE)
 
